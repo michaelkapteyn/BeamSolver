@@ -1,6 +1,6 @@
 # import the geometry module from aswing.py
 import sys
-sys.path.append("/Users/michaelkapteyn/Dropbox (MIT)/Research/PhD/DDDAS/Models/Aswing/AswingPy")
+sys.path.append("C:\\Users\\wybot\\Desktop\\Git\\Aswing.py")
 print(sys.path)
 from aswingpy import geometry
 
